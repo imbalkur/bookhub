@@ -16,3 +16,17 @@ BookHub is Laravel web application which provides platform to users to buy books
 -   **[Postgre Sql](https://www.postgresql.org/)**
 -   **[Javascript](https://www.javascript.com/)**
 -   **[Tailwind Css](https://tailwindcss.com/)**
+
+## Deployment
+
+#### Live Server Deployment
+
+For deploment of application heroku is used.
+
+-   **[Heroku](https://www.heroku.com/)**
+
+#### Local Development
+
+For local development of the application Xamp is used
+
+-   **[XAMPP](https://www.apachefriends.org/index.html)**
